@@ -1,0 +1,1 @@
+# Azure-Sentinel-SOC-Detection-and-Response-Project
